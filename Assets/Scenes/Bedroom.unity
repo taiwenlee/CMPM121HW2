@@ -4663,7 +4663,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 536544682}
   m_LocalRotation: {x: -0.00297066, y: 0.9803447, z: -0.19671352, w: -0.014804633}
-  m_LocalPosition: {x: 0.869, y: 1.616, z: 0.751}
+  m_LocalPosition: {x: 0.273, y: 1.7316, z: 1.201}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5809,7 +5809,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10804804, guid: ef94d4274068ef047aaa846843c42d3a, type: 3}
       propertyPath: m_Intensity
-      value: 0.6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 10851608, guid: ef94d4274068ef047aaa846843c42d3a, type: 3}
       propertyPath: m_Color.b
@@ -5825,7 +5825,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10851608, guid: ef94d4274068ef047aaa846843c42d3a, type: 3}
       propertyPath: m_Intensity
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11443340, guid: ef94d4274068ef047aaa846843c42d3a, type: 3}
       propertyPath: furnitureTextures
@@ -6799,6 +6799,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: efbc7aaed080d31418251812fc4cfad8, type: 3}
       propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: efbc7aaed080d31418251812fc4cfad8, type: 3}
+      propertyPath: m_LightProbeUsage
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
